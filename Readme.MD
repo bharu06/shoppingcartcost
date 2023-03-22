@@ -15,3 +15,6 @@ ie Buy1 get 1, buy 2 get 1 etc
 Future Support
 1. item discount per item
 2. Ovverall discount based on total amount
+
+
+Main logic is in Offer classes and OfferEvaluator

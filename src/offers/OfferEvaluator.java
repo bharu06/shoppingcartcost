@@ -6,6 +6,9 @@ import java.util.List;
 
 public class OfferEvaluator {
 
+    /*
+    This method is the main method which applies all filters and offers
+     */
     public double getFinalPrice(List<IItem> itemList) {
 
         List<IOffer> filters = OfferFactory.getFilterOffers();
